@@ -1,0 +1,96 @@
+CS1114 4 Concepts of Programming
+CS2114 4 Structured Programming
+CS2124 4 Object Oriented Programming & Fundamental Data Structures
+CS3113 3 Algorithms and Advanced Data Structures
+CS3123 3 Programming Languages
+CS3213 3 Assembly Language Programming
+CS3223 3 Computer Organization
+CS3233 3 Operating Systems
+CS3613 3 Web Application Development
+CS5113 3 Software Engineering I
+CS5123 3 Software Engineering II
+CS5133 3 Compilers
+CS4143 3 Java Application Development
+CS5213 3 Distributed Computing
+CS5223 3 UNIX Systems Programming
+CS5313 3 Computer Networks
+CS5413 3 Computer Graphics I
+CS5423 3 Computer Graphics II
+CS5433 3 Artificial Intelligence
+CS5543 3 Database Systems
+CS5613 3 Mobile Application Development
+CS5713 3 Analysis of Algorithms
+CS5723 3 Automata Theory
+MATH1023 3 College Algebra
+MATH1033 3 Plane Trigonometry
+MATH1054 4 Precalculus Mathematics
+MATH2143 3 Business Calculus
+MATH2183 3 Discrete Structures
+MATH2194 4 Survey of Calculus
+MATH2204 4 Calculus I
+MATH2214 4 Calculus II
+MATH3243 3 Linear Algebra
+MATH3254 4 Calculus III
+MATH3303 3 Modern Algebra I
+MATH4403 3 Differential Equations
+MATH4423 3 Modern Algebra II
+STAT3233 3 Applied Statistics I
+STAT4453 3 Probability and Statistics I
+STAT4463 3 Probability and Statistics II
+STAT4473 3 Applied Statistics II
+PHYS2034 4 University Physics I
+PHYS2054 4 General Physics I
+PHYS2044 4 University Physics II
+ECON2313 3 Principles of Macroeconomics
+ECON2333 3 Economic Issues & Concepts
+COMS1203 3 Oral Communication
+PHIL3723 3 Computers, Ethics, and Society
+CHEM1013 3 General Chemistry I
+CHEM1011 1 General Chemistry I Laboratory
+EE3333 3 Digital Electronics I
+EE3331 1 Digital Electronics I Laboratory
+ENG3043 3 Technical Writing
+ENG1003 3 Composition I
+ENG1013 3 Composition II
+BIOL1003 3 Biological Science
+BIOL1033 3 Biology of Sex
+BIOL1063 3 People & Environment
+BIO2013 3 Biology of the Cell
+BIO2103 3 Microbiology for Nursing and Allied Health
+BIO2203 3 Human Anatomy and Physiology I
+BIOL1001 1 Biology Laboratory
+BIO2011 1 Biology of the Cell Laboratory
+BIO2101 1 Microbiology for Nursing and Allied Health Laboratory
+BIO2201 1 Human Anatomy and Physiology I Laboratory
+ART2503 3 Fine Arts Visual
+MUS2503 3 Fine Arts Music
+THEA2503 3 Fine Arts Theatre
+ENG2003 3 World Literature to 1660
+ENG2013 3 World Literature Since 1660
+PHIL1103 3 Introduction to Philosophy
+ANTH2233 3 Introduction to Cultural Anthropology
+HIST2763 3 United States History to 1876
+CMAC1003 3 Mass Communication
+HIST2773 3 United States History since 1876
+ECON2313 3 Principles of Macroeconomics
+POSC1003 3 Introduction to Politics
+ECON2333 3 Economic Issues & Concepts
+POSC2103 3 Introduction to US Government
+GEOG2613 3 Introduction to Geography
+PSY2013 3 Introduction to Psychology
+HIST1013 3 World Civilization to 1660
+SOC2213 3 Introduction to Sociology
+HIST1023 3 World Civilization since 1660
+CIT3353 3 Mobile and Web Applications Development
+CIT4453 3 Global E-Commerce
+MKTG3013 3 Marketing
+GCOM3673 3 Digital Publishing and Publication Design
+CIT2523 3 Telecommunications and Networking Essentials
+CIT4453 3 Global E-Commerce
+CIT4653 3 Automatic Data Capture
+CIT4853 3 IT Project Management
+ACCT2023 3 Fundamental Accounting Concepts
+FIN3713 3 Business Finance
+LAW2023 3 Legal Environment of Business
+MGMT3153 3 Organizational Behavior
+MKTG3013 3 Marketing

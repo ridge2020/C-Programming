@@ -1,0 +1,57 @@
+Student Name:              Ableson, Donald
+ID Number:                 123654789
+Classification:            SO
+Credit Hours Completed:    32
+Quality Points:            98
+GPA:                       3.1
+
+   Course    Title                                                       Credit Quality Average Letter
+   Number                                                                 Hours  Points          Grade
+   ---------------------------------------------------------------------------------------------------
+   CS1114    Concepts of Programming                                        4      12    84.2      B
+   MATH2204  Calculus I                                                     4      12    83.9      B
+   ENG1003   Composition I                                                  3      12    96.3      A
+   PHYS2034  University Physics I                                           4      12    82.1      B
+   ART2503   Fine Arts Visual                                               3      12    95.1      A
+   CS2124    Object Oriented Programming & Fundamental Data Structures      4      12    82.4      B
+   MATH2214  Calculus II                                                    4       8    78.3      C
+   ENG3043   Technical Writing                                              3      12    97.4      A
+   ANTH2233  Introduction to Cultural Anthropology                          3       6    78.5      C
+
+
+Student Name:              Doe, John
+ID Number:                 123456789
+Classification:            FR
+Credit Hours Completed:    14
+Quality Points:            42
+GPA:                       3.0
+
+   Course    Title                                                       Credit Quality Average Letter
+   Number                                                                 Hours  Points          Grade
+   ---------------------------------------------------------------------------------------------------
+   CS1114    Concepts of Programming                                        4      16    94.2      A
+   MATH1023  College Algebra                                                3       9    89.9      B
+   ENG1003   Composition I                                                  3       9    86.3      B
+   BIO2013   Biology of the Cell                                            3       6    72.3      C
+   BIO2101   Microbiology for Nursing and Allied Health Laboratory          1       2    75.1      C
+
+
+Student Name:              McDonald, Jeanie
+ID Number:                 987654321
+Classification:            FR
+Credit Hours Completed:    17
+Quality Points:            54
+GPA:                       3.2
+
+   Course    Title                                                       Credit Quality Average Letter
+   Number                                                                 Hours  Points          Grade
+   --------------------------------------------------------------------------------------------------
+   MATH1054  Precalculus Mathematics                                        4      12    86.3      B
+   CS2114    Structured Programming                                         4      12    83.4      B
+   HIST2763  United States History to 1876                                  3      12    91.3      A
+   PSY2013   Introduction to Psychology                                     3       9    88.4      B
+   ENG2003   World Literature to 1660                                       3       9    88.7      B
+
+
+
+
